@@ -1,0 +1,2 @@
+# Syntecxhub_Library_Management_System
+CLI-based Library Management System developed as part of an internship task. The project implements core programming concepts, menu-driven operations, data handling, and basic error handling to manage library books efficiently.
