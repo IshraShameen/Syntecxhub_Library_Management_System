@@ -37,3 +37,14 @@ The application allows users to manage library books through a simple and intera
 2. Clone the repository  
    ```bash
    git clone https://github.com/your-username/library-management-system-cli.git
+   library-management-system-cli/
+│
+├── src/
+│   └── LibraryManagementSystem.java
+│
+└── README.md
+Author
+Ishra Shameen
+2nd Year CSE Student
+📎 Internship Task Submission
+This project is submitted as part of my internship program to demonstrate understanding of Java programming and CLI-based application development.
